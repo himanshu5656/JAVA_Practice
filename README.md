@@ -10,6 +10,8 @@ This repository contains my Data Structures and Algorithms practice in Java.
 - Searching
 - Loops
 - Methods
+- Pattern_printing
+- 2D-arrays
   
 
 ## 🛠️ Language
